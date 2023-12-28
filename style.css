@@ -181,6 +181,7 @@ body {
         width: 100%;
         background-color: black;
         overflow: scroll;
+        border-radius:0px;
     }
 
     /* Adjustments for the logo on smaller screens */
